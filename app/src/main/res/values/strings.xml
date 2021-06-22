@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI-calculator</string>
+    <string name="str_height">신장</string>
+    <string name="str_weight">체중</string>
+    <string name="str_btn">확인하기</string>
+    <string name="str_bmi_result">BMI : %1$s</string>
+</resources>
